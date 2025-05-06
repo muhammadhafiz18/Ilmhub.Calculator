@@ -1,0 +1,1 @@
+# Historiy ya'ni ishlatilgan narsani hotiraga saqlab qolish , agarda o'chib ketsayam qayta ko'rsak bo'ladi shu funksiya orqaligi
